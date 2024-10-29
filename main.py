@@ -14,7 +14,7 @@ def client_message():
     client = Client(account_sid, auth_token)
     message = client.messages \
         .create(
-        body=f"Hi Moriel \nThe weather today going to be {weather_type}",
+        body=f"Hi <User_Name> \nThe weather today going to be {weather_type}",
         from_="<Phone_Number>",
         to="<Phone_Number_2>"
     )
