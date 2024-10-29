@@ -18,8 +18,8 @@ Installation
    ```
 
 Setup
-1. Obtain an API key from a weather service provider [(e.g., OpenWeatherMap)](https://openweathermap.org/api).
-2. Get credentials from an SMS provider [(e.g., twilio)](https://www.twilio.com) for SMS functionality.
+1. Obtain an API key from a weather service provider [(OpenWeatherMap)](https://openweathermap.org/api).
+2. Get credentials from an SMS provider [twilio)](https://www.twilio.com) for SMS functionality.
 3. Configure your API keys in the project settings or environment variables.
 
 Usage
